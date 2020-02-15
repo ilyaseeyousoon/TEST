@@ -1,0 +1,15 @@
+"E:\iar\arm\bin\armproc.dll" 
+
+"E:\iar\arm\bin\armstlink2.dll" 
+
+"F:\cubeprojs\1\test\test\EWARM\test\Exe\test.out" 
+
+--plugin="E:\iar\arm\bin\armbat.dll" 
+
+--device_macro="E:\iar\arm\config\debugger\ST\STM32F1xx.dmac" 
+
+--flash_loader="E:\iar\arm\config\flashloader\ST\FlashSTM32F100xB.board" 
+
+
+
+
